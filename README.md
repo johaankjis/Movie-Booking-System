@@ -1,1 +1,2 @@
 # Movie-Booking-System
+This is a program where the client and the organization can use to create a movie booking application for their business. The organization can host a local server, where the client on a browser will choose their movie, book timings and even choose a seat. The organization can add or remove movies from the program without the need of the programmer manually changing it. This program can practically be used to run a movie theater enterprise.
