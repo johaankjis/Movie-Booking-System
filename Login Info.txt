@@ -1,0 +1,9 @@
+**Go to URL http://local:5000** to host the program
+
+**Manger Login Details**
+Username: manager
+Password: Password@123
+
+**Cashier Login Details**
+Username: cashier
+Password: cashier123
